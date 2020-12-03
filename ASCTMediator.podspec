@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ASCTMediator'
-  s.version          = '0.1.0'
+  s.version          = '0.2.0'
   s.summary          = '基础 CTMediator '
 
 
@@ -20,7 +20,7 @@ Pod::Spec.new do |s|
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'liukecyl@163.com' => 'liukecyl@163.com' }
-  s.source           = { :git => 'https://github.com/liukecyl@163.com/ASCTMediator.git', :tag => s.version.to_s }
+  s.source           = { :git => 'http://192.168.1.96/ke/ASCTMediator.git', :tag => s.version.to_s }
   
   s.ios.deployment_target = '9.0'
 
