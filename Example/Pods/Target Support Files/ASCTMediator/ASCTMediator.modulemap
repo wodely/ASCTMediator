@@ -1,0 +1,6 @@
+framework module ASCTMediator {
+  umbrella header "ASCTMediator-umbrella.h"
+
+  export *
+  module * { export * }
+}

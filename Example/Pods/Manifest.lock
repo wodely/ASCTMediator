@@ -1,0 +1,16 @@
+PODS:
+  - ASCTMediator (0.1.0)
+
+DEPENDENCIES:
+  - ASCTMediator (from `../`)
+
+EXTERNAL SOURCES:
+  ASCTMediator:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ASCTMediator: b3f244a150ea54a1a50615002d32e252e517c096
+
+PODFILE CHECKSUM: 906cc7b8a79df2155bb916bc569600c0732ff44c
+
+COCOAPODS: 1.10.0.rc.1

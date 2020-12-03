@@ -1,0 +1,6 @@
+framework module Pods_ASCTMediator_Tests {
+  umbrella header "Pods-ASCTMediator_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

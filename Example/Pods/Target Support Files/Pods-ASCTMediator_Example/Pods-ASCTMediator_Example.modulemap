@@ -1,0 +1,6 @@
+framework module Pods_ASCTMediator_Example {
+  umbrella header "Pods-ASCTMediator_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
