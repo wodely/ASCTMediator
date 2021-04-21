@@ -20,7 +20,7 @@ Pod::Spec.new do |s|
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'liukecyl@163.com' => 'liukecyl@163.com' }
-  s.source           = { :git => 'http://192.168.1.96/ke/ASCTMediator.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/wodely/ASCTMediator.git', :tag => s.version.to_s }
   
   s.ios.deployment_target = '9.0'
 

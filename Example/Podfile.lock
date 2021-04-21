@@ -1,5 +1,5 @@
 PODS:
-  - ASCTMediator (0.1.0)
+  - ASCTMediator (0.2.0)
 
 DEPENDENCIES:
   - ASCTMediator (from `../`)
@@ -9,8 +9,8 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  ASCTMediator: b3f244a150ea54a1a50615002d32e252e517c096
+  ASCTMediator: 22d282786ae349b8b2ff2caa701ea92c1b1ea602
 
 PODFILE CHECKSUM: 906cc7b8a79df2155bb916bc569600c0732ff44c
 
-COCOAPODS: 1.10.0.rc.1
+COCOAPODS: 1.10.1

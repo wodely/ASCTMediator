@@ -1,6 +1,6 @@
 {
   "name": "ASCTMediator",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "基础 CTMediator",
   "description": "基础 ASCTMediator for aisino",
   "homepage": "https://github.com",
@@ -12,8 +12,8 @@
     "liukecyl@163.com": "liukecyl@163.com"
   },
   "source": {
-    "git": "https://github.com/liukecyl@163.com/ASCTMediator.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/wodely/ASCTMediator.git",
+    "tag": "0.2.0"
   },
   "platforms": {
     "ios": "9.0"
