@@ -1,5 +1,5 @@
 PODS:
-  - ASCTMediator (0.3.0)
+  - ASCTMediator (0.5.0)
 
 DEPENDENCIES:
   - ASCTMediator (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  ASCTMediator: 1622c4e109eecaab12bdca6d477034d7a0ac6391
+  ASCTMediator: aaf579123e9191024d626ca2e8fef6c5bb76f2b1
 
 PODFILE CHECKSUM: 906cc7b8a79df2155bb916bc569600c0732ff44c
 
